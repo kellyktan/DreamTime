@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kellyktan1@gmail.com",
+    "longName": "DreamTime",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/cup_icon.png",
+                "menuIcon": true,
+                "name": "TEST_IMAGE",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "DreamTime",
+    "uuid": "6f2e5174-76d8-44e5-aa8b-2bf5f6d789b9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
